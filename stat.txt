@@ -1,0 +1,5 @@
+mean squared error median : 0.041201
+mean CI width : 13.1932
+median CI width : 11.19
+Estimated mu is : 0.14198
+Estimated sigma is : 0.21037
